@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person gender="male">
+  <name>John Smith</name>
+  <occupation>Software Engineer</occupation>
+  <address>
+    <street>123 Main Street</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>10001</zip>
+  </address>
+  <hobbies>
+    <hobby>Reading</hobby>
+    <hobby>Coding</hobby>
+    <hobby>Gaming</hobby>
+  </hobbies>
+</person>
