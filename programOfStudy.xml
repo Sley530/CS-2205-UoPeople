@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programOfStudy>
+  <student>
+    <name>Jane Doe</name>
+    <major>CIS</major>
+  </student>
+  <semesters>
+    <semester term="Fall" year="2008">
+      <courses>
+        <course type="General Education" goal="8">PHIL 101</course>
+        <course type="General Education" goal="11">ECON 201</course>
+        <course type="Core">MGT 217</course>
+        <course type="Major">CIS 120</course>
+        <course type="Major">CIS 403</course>
+      </courses>
+    </semester>
+    <semester term="Spring" year="2009">
+      <courses>
+        <course type="Core">MGT 261</course>
+        <course type="Core">MKTG 325</course>
+        <course type="Major">CIS 220</course>
+        <course type="Major">CIS 407</course>
+        <course type="Major">CIS 490</course>
+      </courses>
+    </semester>
+  </semesters>
+</programOfStudy>
